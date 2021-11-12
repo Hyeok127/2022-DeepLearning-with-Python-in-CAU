@@ -1,0 +1,9 @@
+import numpy as np 
+import pandas as pd
+import json
+
+meta = pd.read_csv('the-movies-dataset/movies_metadata.csv')
+
+meta.head()
+/Users/brad/bdf/lib/python3.6/site-packages/IPython/core/interactiveshell.py:3020: DtypeWarning: Columns (10) have mixed types. Specify dtype option on import or set low_memory=False.
+  interactivity=interactivity, compiler=compiler, result=result)
