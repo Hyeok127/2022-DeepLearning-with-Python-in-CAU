@@ -3,6 +3,8 @@
 <br>
 <br>
 
+# Sequential API
+
 01. EFFICIENTNET
 - 1. efficientnetB2_D-no_OP_RMSprop : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rWTPuDUUuox4Lwbogr_g_aYzFK8DgaTG)
 - 2. efficientnetB2_D8_OP_RMSprop : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1smbR2wq6vz6WyERYwyzxTOsY6DoDp5qh)
